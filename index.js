@@ -1,1 +1,1 @@
-const initializeArrayWithValues = (n, value = 0) => Array(n).fill(value);
+const reverseWords = (str) => str.split(" ").reverse().join(" ");
